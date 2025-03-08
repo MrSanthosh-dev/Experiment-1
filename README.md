@@ -27,7 +27,7 @@ int main() {
 ```
 ## Output
 ![image](https://github.com/user-attachments/assets/7970abc7-8979-4025-beaa-38cc9499120c)
-
+## Result
 Program was executed Successfully.
 ## b)  while...do loop
 ## Aim
